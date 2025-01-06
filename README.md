@@ -1,2 +1,2 @@
 # odin-recipes
-Hello viewer! This is my html project demonstrating link usage.
+Hello! This is my project showcasing reipes by using html.
