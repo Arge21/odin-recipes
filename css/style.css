@@ -1,3 +1,28 @@
 body {
     font-family: Helvetica, sans-serif;
+    background-color: rgba(227, 167, 250, 0.884);
+}
+
+.main-contain {
+    width: 500px;
+    margin: 100px auto;
+    border-width: 2px;
+    border-color: rgb(194, 194, 194);
+    border-style: solid;
+    background-color: rgb(208, 233, 254);
+    border-radius: 20px;
+    box-sizing: border-box;
+    box-shadow: 0.5rem 0.5rem 1rem black, -0.5rem -0.5rem 1rem #ccc;
+    border: none;
+    padding: 10px;
+    height: 350px;
+}
+
+.recipe-title {
+    text-align: center;
+}
+
+.main-list {
+    width: 100px;
+    margin: 0 auto;
 }
